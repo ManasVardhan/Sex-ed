@@ -164,7 +164,7 @@ intents:
 responses:
 
  utter_how_pregnancy:
- - text: When sperm meets with an egg, it can cause pregnancy. This usually happens after penis-in-vagina sex, when a penis ejaculates (cums) into a vagina. Pregnancy can also happen if semen gets on a vulva (like if you touch a vulva with wet semen on your fingers).
+ - text: When sperm (the male reproductive cell) combines with an egg (female reproductive cell), inside the uterus of a woman, it forms a zygote and this condition is called pregnancy. This usually happens after sexual intercourse between a man and a woman, when a penis ejaculates into a vagina.
 
 
  utter_pregnancy_pullout:
@@ -172,11 +172,11 @@ responses:
 
 
  utter_no_virgin:
- - text: Most people say they've lost their virginity after the first time they have sex. But sex means different things to different people, so it's up to you to decide what virginity means to you.
+ - text: Normally, you lose you virginity after the first time you have sex. This is an established fact. (However, sex means different things to different people, so it's up to you to decide what virginity means to you.)
 
 
  utter_std_what:
- - text: Take a breath — STDs are super common, and many can be treated with medicine. The only way to know you have an STD for sure is to get tested. You can get tested at Planned Parenthood health centers and other doctors’ offices. It’s usually easy, painless, and can even be free.
+ - text: Take a breath — STDs are super common, and many can be treated with medicine. The only way to know you have an STD for sure is to get tested. You can get tested at Planned Parenthood health centers and other doctors’ offices. It’s usually easy, painless, and can even be free. (However, some diseases like AIDS do have serious implecations so it's best to take proper precautions and consult proper doctors if you feel something is wrong)
 
 
  utter_how_know_STD:
@@ -188,19 +188,19 @@ responses:
 
 
  utter_hurts_sex:
- - text: As a robot, I’m not great at diagnosing stuff, but I know that sex should feel good for everyone involved. The best way to figure out why you’re having pain is to talk with a human doctor or nurse. And remember:- if sex hurts, you can stop!
+ - text: As a robot, I’m not great at diagnosing stuff, but I know that sex should feel good for everyone involved. The best way to figure out why you’re having pain is to talk with a human doctor or nurse. And remember:- if sex hurts (and not in a good way), you must stop!
 
 
  utter_pee_burn:
- - text: Ouch! Pain when peeing can have different causes, like a UTI or STD. The only way to know for sure what’s going on is to see a nurse or doctor, like the ones at your local Planned Parenthood.
+ - text: Ouch! Pain when peeing can have different causes, like a UTI or STD. The only way to know for sure what’s going on is to see a nurse or doctor.
 
 
  utter_sex_age:
- - text: It’s all about picking the right age for you, which might be totally different than the right age for other people. It may seem like everybody you know is having sex, but that’s definitely not true. The average age when people have sex for the first time is around 17.
+ - text: It’s all about picking the right age for you, which might be totally different than the right age for other people. It may seem like everybody you know is having sex, but that’s definitely not true. The average age when people have sex for the first time is around 17. However, there are laws regarding the right age for sexual intercourse in every country so it is advisable to follow them.
 
 
  utter_first_sex:
- - text: The first time someone puts fingers or a penis in someone's vagina, it may hurt (that’s the hymen stretching open). Anal sex can hurt the first time (and every time) if you’re not relaxed or using enough lube. Sex won’t usually hurt someone's penis.
+ - text: The first time someone puts fingers or a penis in someone's vagina, it may hurt (that’s the hymen stretching open). Also, if you’re not relaxed or using enough proper lubrication, it can cause excessive friction and that ends up hurting. Sex won’t usually hurt someone's penis.
 
 
  utter_look_sex:
@@ -212,11 +212,11 @@ responses:
 
 
  utter_late_period:
- - text: Lots of things can make your period late:- stress, illness, what you eat, weight gain or loss, and changes in your hormones. If your period doesn’t come at all, it can be a sign of pregnancy. If you had penis-in-vagina sex recently and missed your period, take a pregnancy test.
+ - text: Lots of things can make your period late:- stress, illness, what you eat, weight gain or loss, and changes in your hormones. If your period doesn’t come at all, it can be a sign of pregnancy. If you had sexual intercourse recently and missed your period, take a pregnancy test.
 
 
  utter_longer_period:
- - text: The average period generally lasts 3-7 days, and can change from month to month. It can be affected by things like birth control and stress. If you’re stressed about the length of your period, talk to a nurse or doctor, like the ones at your local Planned Parenthood.
+ - text: The average period generally lasts 3-7 days, and can change from month to month. It can be affected by things like birth control and stress. If your periods last longer than 8 days, consult a doctor immediately as it could be a sign of certain illnesses eg. PCOD.
 
 
  utter_sex_ready:
@@ -228,7 +228,7 @@ responses:
 
 
  utter_sex_pressure:
- - text: Pressuring someone into sex is wrong. If it’s happening with someone you’re dating or hooking up with, that can be a sign of an unhealthy relationship. If someone you go to school with or work with is bugging you about sex, talk with a (non-robot) adult you trust about it.
+ - text: Pressuring someone into sex is wrong. If it’s happening with someone you’re dating or hooking up with, that can be a sign of an unhealthy relationship. If someone you go to school with or work with is bugging you about sex (making subtle sexual advances, dropping dirty jokes in normal conversation which makes you uncomfortable, feel violated or harassed), talk with a (non-robot) adult you trust about it as soon as possible.
 
 
  utter_long_UTI:
@@ -244,7 +244,7 @@ responses:
 
 
  utter_what_sex:
- - text: “Sex” means different things to different people, so it depends on what that means to you.
+ - text: It is a question with a multitude of answers. “Sex” means different things to different people, so it depends on what that means to you.
 
 
  utter_sex_bleed:
@@ -256,7 +256,7 @@ responses:
 
 
  utter_shave_pubic_hair:
- - text: Only some people shave, wax, trim, or remove their pubes some other way. It's totally up to you to decide what to do with yours
+ - text: Only some people shave, wax, trim, or remove their pubes some other way. It's totally up to you to decide what to do with yours. Do not be influenced by your friends or your partner. Do this only if you are comfortable with it.
 
 
  utter_what_where_clitoris:
@@ -264,11 +264,11 @@ responses:
 
 
  utter_normal_penis:
- - text: Unless something hurts or feels off, your penis and testicles are probably normal. Thick or thin, long or short, straight or with a curve, circumcised or not — everyone is unique. Testicles come in all different sizes, too, and many people have one that is bigger than the other.
+ - text: Unless something hurts or feels off, your penis and testicles are probably normal. Thick or thin, long or short, straight or with a curve, circumcised or not — everyone is unique. Testicles come in all different sizes, too, and many people have one that is bigger than the other. Embrace what you have.
 
 
  utter_when_period:
- - text: Most people get their period every 21-35 days, but it’s normal for it to be unpredictable the first few years. Some people can guess it's on the way from PMS symptoms (like cramps, pimples, sore breasts, etc), or you can use a period tracking app (like Spot On!) to predict it.
+ - text: Most people get their period every 21-35 days, but it’s normal for it to be unpredictable the first few years. Some people can guess it's on the way from PMS symptoms (like cramps, pimples, sore breasts, etc), or you can use a period tracking app (like Spot On!) to predict it. However, if your cycle is extremely irregular (once every 2-3 months), it is best to get checked by a doctor.
 
 
  utter_period_age:
@@ -288,11 +288,11 @@ responses:
 
 
  utter_normal_period:
- - text: A typical period lasts from 2-7 days, and happens once a month-ish (about every 21-35 days). Bleeding can range from light to heavy, and the color can look bright red to dark brown. It's also totally normal for periods to be irregular for the first couple years (or even longer).
+ - text: You're a woman now! A period is a natural process in adolescent girls in which blood comes out of their vagina once a month.A typical period lasts from 2-7 days, and happens once a month-ish (about every 21-35 days). Bleeding can range from light to heavy, and the color can look bright red to dark brown. It's also totally normal for periods to be irregular for the first couple years (or even longer).
 
 
  utter_where_pill:
- - text: You can get Plan B over-the-counter at most drug stores. You need a prescription for ella, another kind of emergency contraception. You can always talk to a nurse or doctor, like the ones at your local Planned Parenthood, to find out what is right for you.
+ - text: You can get Plan B over-the-counter at most drug stores. You need a prescription for certail emergency contraception. You can always talk to a nurse or doctor, like the ones at your local Planned Parenthood, to find out what is right for you.
 
 
  utter_pregnant_without_sex:
@@ -308,7 +308,7 @@ responses:
 
 
  utter_condom_pregnant:
- - text: Not if you use the condom correctly and it doesn’t break or fall off. Condoms are great at preventing pregnancy.
+ - text: Not if you use the condom correctly and it doesn’t break or fall off. Condoms are great at preventing pregnancy (and STDs).
 
 
  utter_first_sex_pregnant:
@@ -344,11 +344,11 @@ responses:
 
 
  utter_relationship_problem:
- - text: Relationship problems can be really tough to navigate, especially for a bot. But there's lots of resources out there that can help.
+ - text: Relationship problems can be really tough to navigate, especially for a bot. But there's lots of resources out there that can help. The best suggestion is to talk to your partner and actually listen to what is bothering them. It will definitelt work if it is meant to be
 
 
  utter_abusive_relationship:
- - text: If you feel like you’re being treated badly, you probably are. Abuse often starts slowly and gets worse over time. If your partner is disrespectful, controlling, threatening, violent, or makes you feel bad about yourself, get help.
+ - text: If you feel like you’re being treated badly, you probably are. Abuse often starts slowly and gets worse over time. If your partner is disrespectful, controlling, threatening, violent, or makes you feel bad about yourself, get help. Standing up for yourself is not weakness and it does not mean that you do not love your partner. It means that you respect yourself.
 
 
  utter_what_bullied:
@@ -356,7 +356,7 @@ responses:
 
 
  utter_what_consent:
- - text: Consent means that whether you’re kissing, holding hands, or having sex, both people are really, truly into what’s going on, and no one is being guilted or pressured into anything. Talking about consent is important every time — no matter the person or situation.
+ - text: Consent means that whether you’re kissing, holding hands, or having sex, both people are really, truly into what’s going on, and no one is being guilted or pressured into anything. Talking about consent is important every time — no matter the person or situation (Even if it is your partner).
 
 
  utter_how_come_out:
@@ -396,7 +396,7 @@ responses:
 
 
  utter_masturbate_too_much:
- - text: Masturbating a lot won’t hurt you or cause serious health problems. It’s only a problem if it gets in the way of your daily activities — like school or your social life. If you’re worried, you can talk with an adult you trust. But odds are you’re not masturbating too much.
+ - text: Masturbating a lot won’t hurt you or cause serious health problems. It’s only a problem if it gets in the way of your daily activities — like school or your social life. If you’re worried, you can talk with an adult you trust. But odds are you’re not masturbating too much. However, if you feel that you get compulsive urges to masturbate multiple times a day, it could be a sign of addiction and it's best to talk to a trusted adult and ask for help.
 
 
  utter_masturbation_problems:
@@ -424,7 +424,7 @@ responses:
 
 
  utter_masturbate_virgin:
- - text: “Virginity” means different things to different people, so only you can make that call. But many people who consider themselves virgins do masturbate. Masturbation is different than sex with a partner — for example, there’s no risk of pregnancy or STDs with masturbation.
+ - text: Technocally, yes. “Virginity” means different things to different people, so only you can make that call. But many people who consider themselves virgins do masturbate. Masturbation is different than sex with a partner — for example, there’s no risk of pregnancy or STDs with masturbation.
 
 
  utter_often_masturbate:
@@ -434,8 +434,9 @@ responses:
  utter_masturbate_std:
  - text: You can’t get an STD from masturbating alone. The only way you could possibly get an STD from masturbating is if you’re masturbating with another person who has an STD, and you share sex toys or touch your genitals after touching the other person’s.
 
+
  utter_best_method_birth_control:
- - text: There are many different types of birth control. The most effective types are ones you can’t mess up — like the implant or IUD. You can get even more pregnancy protection by using condoms + birth control together. Bonus :- condoms help prevent STDs too!
+ - text: There are many different types of birth control. The most effective types are ones you can’t mess up — like the implant or IUD (Intra Uterine Devices). You can get even more pregnancy protection by using condoms + birth control together. Bonus:- condoms help prevent STDs too!
 
 
  utter_birth_control_age:

@@ -337,12 +337,6 @@
 * masturbate_std
  - utter_masturbate_std
 
-
-## cost_birth_control
-* cost_birth_control
- - utter_cost_birth_control
-
-
 ## best_method_birth_control
 * best_method_birth_control
  - utter_best_method_birth_control
