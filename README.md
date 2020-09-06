@@ -1,4 +1,5 @@
 # Curiosity Feeder - Rasa X
+![Logo](https://github.com/parthmodi152/Sex-ed/blob/master/Curiosity%20Feeder%20logo.png)
 
 Made a Chatbot using the Rasa Interface. It is a sex-education bot for children bertween the ages of 10-18 years of age.
 It has been designed by keeping in mind the delicacy of the topic and aims to give the most accurate answers to the questions posed by the children.
