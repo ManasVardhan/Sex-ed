@@ -6,7 +6,7 @@ It has been designed by keeping in mind the delicacy of the topic and aims to gi
 
 ## Accessing
 We have built a web page descbibing our endeavour.
-The chatbot can be accessed using the links mentioned here.
+The chatbot and website can be accessed using the link mentioned here.
 
 
 
