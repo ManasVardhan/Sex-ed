@@ -2,478 +2,463 @@ session_config:
   session_expiration_time: 60
   carry_over_slots_to_new_session: true
 intents:
-
+-get_started
 - how_pregnancy
-
 - pregnancy_pullout
-
 - no_virgin
-
 - std_what
-
 - how_know_STD
-
 - how_know_yeast
-
 - hurts_sex
-
 - pee_burn
-
 - sex_age
-
 - first_sex
-
 - look_sex
-
 - what_orgasm
-
 - late_period
-
 - longer_period
-
 - sex_ready
-
 - often_sex
-
 - sex_pressure
-
 - long_UTI
-
 - sex_without_pregnant
-
 - vaginal_discharge_color
-
 - what_sex
-
 - sex_bleed
-
 - Is_vagina_normal
-
 - shave_pubic_hair
-
 - what_where_clitoris
-
 - normal_penis
-
 - when_period
-
 - period_age
-
 - circumcisted_uncircumcisted
-
 - bad_cramps
-
 - use_tampon
-
 - normal_period
-
 - where_pill
-
 - pregnant_without_sex
-
 - itching_genitals
-
 - dry_humpting_pregnant
-
 - condom_pregnant
-
 - first_sex_pregnant
-
 - period_pregnant
-
 - pressure_sex
-
 - how_breakup
-
 - what_to_do_crush
-
 - get_over_crush
-
 - healthy_relationship
-
 - masturbate_relationship_cheating
-
 - relationship_problem
-
 - abusive_relationship
-
 - what_bullied
-
 - what_consent
-
 - how_come_out
-
 - know_bisexual
-
 - know_gay
-
 - same_sex_thought_masturbation
-
 - know_asexual
-
 - why_come_out
-
 - friend_comes_out
-
 - preffered_pronouns
-
 - know_transgender
-
 - masturbate_too_much
-
 - masturbation_problems
-
 - normal_masturbate
-
 - pregnant_masturbate
-
 - period_masturbate
-
 - side_effects_masturbation
-
 - masturbation_orgasm
-
 - masturbate_virgin
-
 - often_masturbate
-
 - masturbate_std
-
 - best_method_birth_control
-
 - birth_control_age
-
 - miss_birth_control_pill
-
 - birth_control_cost
-
 - birth_control_secretly
-
 - std_test_noinsurance
-
 - doctor_inform_std
-
 - IUD_removal_cost
-
 - morning_pill_cost
-
 - abortion_cost
-
 - birth_control_4_period
-
 responses:
-
- utter_how_pregnancy:
- - text: When sperm (the male reproductive cell) combines with an egg (female reproductive cell), inside the uterus of a woman, it forms a zygote and this condition is called pregnancy. This usually happens after sexual intercourse between a man and a woman, when a penis ejaculates into a vagina.
-
-
- utter_pregnancy_pullout:
- - text: It’s rare, but it can happen. Sperm mostly lives in semen (what comes out of the penis during ejaculation), but a little sperm can come out in pre-cum (the clear fluid that comes out of the penis when it’s hard). If pre-cum gets in the vagina, pregnancy is unlikely but possible.
-
-
- utter_no_virgin:
- - text: Normally, you lose you virginity after the first time you have sex. This is an established fact. (However, sex means different things to different people, so it's up to you to decide what virginity means to you.)
-
-
- utter_std_what:
- - text: Take a breath — STDs are super common, and many can be treated with medicine. The only way to know you have an STD for sure is to get tested. You can get tested at Planned Parenthood health centers and other doctors’ offices. It’s usually easy, painless, and can even be free. (However, some diseases like AIDS do have serious implecations so it's best to take proper precautions and consult proper doctors if you feel something is wrong)
-
-
- utter_how_know_STD:
- - text: You can only get STDs from sexual contact with another person (like oral, anal, or vaginal sex). Most of the time, STDs don’t show symptoms, so the only way to know for sure if you have an STD is to get tested. STD testing is usually easy, painless, and sometimes even free.
-
-
- utter_how_know_yeast:
- - text: Yeast infections are no fun. Symptoms can include:- thick, white, clumpy discharge; creamy, white coating around your vagina; itching, burning, or redness in or around your vagina. If you think you have a yeast infection, call your doctor or a PP health center.
-
-
- utter_hurts_sex:
- - text: As a robot, I’m not great at diagnosing stuff, but I know that sex should feel good for everyone involved. The best way to figure out why you’re having pain is to talk with a human doctor or nurse. And remember:- if sex hurts (and not in a good way), you must stop!
-
-
- utter_pee_burn:
- - text: Ouch! Pain when peeing can have different causes, like a UTI or STD. The only way to know for sure what’s going on is to see a nurse or doctor.
-
-
- utter_sex_age:
- - text: It’s all about picking the right age for you, which might be totally different than the right age for other people. It may seem like everybody you know is having sex, but that’s definitely not true. The average age when people have sex for the first time is around 17. However, there are laws regarding the right age for sexual intercourse in every country so it is advisable to follow them.
-
-
- utter_first_sex:
- - text: The first time someone puts fingers or a penis in someone's vagina, it may hurt (that’s the hymen stretching open). Also, if you’re not relaxed or using enough proper lubrication, it can cause excessive friction and that ends up hurting. Sex won’t usually hurt someone's penis.
-
-
- utter_look_sex:
- - text: Don't worry, your appearance will not change after you start having sex. Nobody can tell whether you’ve had sex by looking at you.
-
-
- utter_what_orgasm:
- - text: An orgasm is a release of sexual tension. You have muscle spasms in your genitals that feel really good, and your body releases hormones that make you feel happy and relaxed afterwards. Orgasms are sometimes called “cumming.”
-
-
- utter_late_period:
- - text: Lots of things can make your period late:- stress, illness, what you eat, weight gain or loss, and changes in your hormones. If your period doesn’t come at all, it can be a sign of pregnancy. If you had sexual intercourse recently and missed your period, take a pregnancy test.
-
-
- utter_longer_period:
- - text: The average period generally lasts 3-7 days, and can change from month to month. It can be affected by things like birth control and stress. If your periods last longer than 8 days, consult a doctor immediately as it could be a sign of certain illnesses eg. PCOD.
-
-
- utter_sex_ready:
- - text: That’s a big decision to make, so it can help to talk it over with a non-robot person you trust. If you feel ready, make sure you think about safer sex to prevent STDs and birth control if you don’t want to get pregnant.
-
-
- utter_often_sex:
- - text: Sex is super personal and different for everyone. Some have sex regularly — a few times a week, every day, or more. Others have sex every once in a while, and some don’t do it at all. It’s up to you and your partner to decide what works best for you.
-
-
- utter_sex_pressure:
- - text: Pressuring someone into sex is wrong. If it’s happening with someone you’re dating or hooking up with, that can be a sign of an unhealthy relationship. If someone you go to school with or work with is bugging you about sex (making subtle sexual advances, dropping dirty jokes in normal conversation which makes you uncomfortable, feel violated or harassed), talk with a (non-robot) adult you trust about it as soon as possible.
-
-
- utter_long_UTI:
- - text: UTIs can be easily cured with antibiotics, and most people feel better within a day or two of taking them. UTIs are generally easy to treat, but if left untreated, they can spread and cause *bigger* problems like kidney damage
-
-
- utter_sex_without_pregnant:
- - text: If you want to avoid pregnancy during sex, you can use birth control — something that stops sperm from meeting an egg. There are many types of birth control. You can get the most pregnancy protection by using condoms + birth control together. Bonus:- condoms help prevent STDs too!
-
-
- utter_vaginal_discharge_color:
- - text: Vaginal discharge is totally normal, and it’s usually clear, white, or slightly yellow. If you notice discharge that is green, grey, foamy, or has a strong fish-like smell, it may be a sign of infection. A nurse or doctor can help you figure out what’s going on.
-
-
- utter_what_sex:
- - text: It is a question with a multitude of answers. “Sex” means different things to different people, so it depends on what that means to you.
-
-
- utter_sex_bleed:
- - text: Bleeding can happen when the hymen — the thin tissue at the opening of the vagina — gets stretched. There might be bleeding the first time a penis or fingers go into someone’s vagina, but it doesn’t happen to everybody.
-
-
- utter_Is_vagina_normal:
- - text: There’s really no such thing as a “normal” vagina. Vaginas and vulvas are as unique as faces — they all have the same parts, but nobody's looks the same. There are many different colors, shapes, and sizes. And it’s normal to have some discharge (fluid) come out of your vagina.
-
-
- utter_shave_pubic_hair:
- - text: Only some people shave, wax, trim, or remove their pubes some other way. It's totally up to you to decide what to do with yours. Do not be influenced by your friends or your partner. Do this only if you are comfortable with it.
-
-
- utter_what_where_clitoris:
- - text: The clitoris is part of the vulva and its only purpose is to feel awesome. Seriously, that's all it's there for! The outside part of the clitoris is located at the top of the vulva, right next to the urethra (the hole where pee comes out), but the inner part is much bigger.
-
-
- utter_normal_penis:
- - text: Unless something hurts or feels off, your penis and testicles are probably normal. Thick or thin, long or short, straight or with a curve, circumcised or not — everyone is unique. Testicles come in all different sizes, too, and many people have one that is bigger than the other. Embrace what you have.
-
-
- utter_when_period:
- - text: Most people get their period every 21-35 days, but it’s normal for it to be unpredictable the first few years. Some people can guess it's on the way from PMS symptoms (like cramps, pimples, sore breasts, etc), or you can use a period tracking app (like Spot On!) to predict it. However, if your cycle is extremely irregular (once every 2-3 months), it is best to get checked by a doctor.
-
-
- utter_period_age:
- - text: Most people get their first period at some point between ages 12 and 15, but it’s normal for it to come a couple years before or after that.
-
-
- utter_circumcisted_uncircumcisted:
- - text: An uncircumcised penis has a foreskin — a soft tube of skin that covers the tip of the penis. A circumcised penis has had the foreskin removed.
-
-
- utter_bad_cramps:
- - text: Cramps are a bummer. You can calm them by taking pain medicine (like ibuprofen). Putting a heating pad where it hurts, taking a hot bath, exercising, or stretching can also help. Some birth control methods (like the pill) can make cramps less of a thing, too.
-
-
- utter_use_tampon:
- - text: Tampons are like little cotton plugs that go in your vagina. Most tampons come with an applicator to help you put them in. You need to change tampons every 3 or 4 hours (or earlier if you think it’s leaking).
-
-
- utter_normal_period:
- - text: You're a woman now! A period is a natural process in adolescent girls in which blood comes out of their vagina once a month.A typical period lasts from 2-7 days, and happens once a month-ish (about every 21-35 days). Bleeding can range from light to heavy, and the color can look bright red to dark brown. It's also totally normal for periods to be irregular for the first couple years (or even longer).
-
-
- utter_where_pill:
- - text: You can get Plan B over-the-counter at most drug stores. You need a prescription for certail emergency contraception. You can always talk to a nurse or doctor, like the ones at your local Planned Parenthood, to find out what is right for you.
-
-
- utter_pregnant_without_sex:
- - text: It is possible for pregnancy to happen if semen (cum) gets in the vagina, even without having penis-in-vagina sex. The chances of getting pregnant from this are *much* lower than the chances of getting pregnant from penis-in-vagina sex.
-
-
- utter_itching_genitals:
- - text: There can be many causes of itching or bumps around your genitals, like ingrown hairs or an STD. A nurse or doctor can help you figure out what’s going on.
-
-
- utter_dry_humpting_pregnant:
- - text: You definitely can't get pregnant from dry humping. In order for pregnancy to happen, sperm needs to get into your vagina. If clothes or other barriers keep that from happening, pregnancy isn’t possible.
-
-
- utter_condom_pregnant:
- - text: Not if you use the condom correctly and it doesn’t break or fall off. Condoms are great at preventing pregnancy (and STDs).
-
-
- utter_first_sex_pregnant:
- - text: If you don’t use a condom or another birth control method, it’s totally possible to get pregnant the first time you have sex.
-
-
- utter_period_pregnant:
- - text: It's possible to get pregnant during your period, just less common. You’re most likely to get pregnant just before or during ovulation (when an egg is released), which is *usually* about 2 weeks before your period. But unprotected vaginal sex at *any time* can cause pregnancy.
-
-
- utter_pressure_sex:
- - text: Pressuring someone into sex is wrong. If it’s happening with someone you’re dating or hooking up with, that can be a sign of an unhealthy relationship. If someone you go to school with or work with is bugging you about sex, talk with a (non-robot) adult you trust about it.
-
-
- utter_how_breakup:
- - text: A broken heart can really hurt, but it will feel better with time (promise). It can help to lean on friends for support, and use outlets like exercise, music, writing, or art to help you work through your feelings. And try to remember that you’re amazing, no matter what.
-
-
- utter_what_to_do_crush:
- - text: Having a crush can be fun and frustrating. Talking to them is the only way to know for sure if they like you back. If it feels like you’re vibing, you could ask if they want to hang out or tell them how you feel. But if they’re not into it, it’s important to respect their answer.
-
-
- utter_get_over_crush:
- - text: A broken heart can really hurt, but it will feel better with time (promise). It can help to lean on friends for support, and use outlets like exercise, music, writing, or art to help you work through your feelings. And try to remember that you’re amazing, no matter what.
-
-
- utter_healthy_relationship:
- - text: When a relationship is healthy, you feel good about yourselves and each other most of the time. You both feel like you have respect, kindness, trust, honesty, equality, and good communication. And you also give each other space to have your own lives outside the relationship.
-
-
- utter_masturbate_relationship_cheating:
- - text: Cheating = different things to everyone. But it’s normal and common to masturbate when you’re in a relationship. It DOESN’T mean you’re not into your partner, or that they’re not good enough. (Plus, it’s kinda hard to cheat on someone with...yourself.)
-
-
- utter_relationship_problem:
- - text: Relationship problems can be really tough to navigate, especially for a bot. But there's lots of resources out there that can help. The best suggestion is to talk to your partner and actually listen to what is bothering them. It will definitelt work if it is meant to be
-
-
- utter_abusive_relationship:
- - text: If you feel like you’re being treated badly, you probably are. Abuse often starts slowly and gets worse over time. If your partner is disrespectful, controlling, threatening, violent, or makes you feel bad about yourself, get help. Standing up for yourself is not weakness and it does not mean that you do not love your partner. It means that you respect yourself.
-
-
- utter_what_bullied:
- - text: Being bullied sucks. It can make you feel powerless, but there are things you can do. Telling an adult you trust is the best place to start. You might be afraid that it could make things worse, but they can only help if they know what’s happening.
-
-
- utter_what_consent:
- - text: Consent means that whether you’re kissing, holding hands, or having sex, both people are really, truly into what’s going on, and no one is being guilted or pressured into anything. Talking about consent is important every time — no matter the person or situation (Even if it is your partner).
-
-
- utter_how_come_out:
- - text: There’s no “right” way to come out — it should just feel right to you. You can talk in-person, or write a letter or text if it feels more comfortable. If you think they’ll react negatively, plan to get some support after. And if it doesn’t feel safe, you might want to wait.
-
-
- utter_know_bisexual:
- - text: The only way to know is by how you feel. Being bisexual means feeling attracted to people of all genders or more than one gender. If you’re not sure what your sexual orientation is, that’s totally normal. Sometimes it takes a while to figure it out.
-
-
- utter_know_gay:
- - text: The only way to know is by how you feel. Being gay means feeling mostly attracted to people who are the same gender as you. If you’re not sure what your sexual orientation is, that’s totally normal. Sometimes it takes a while to figure it out.
-
-
- utter_same_sex_thought_masturbation:
- - text: What you think or fantasize about when you masturbate doesn’t necessarily have anything to do with whether you identify as gay, straight, or bisexual. People enjoy all kinds of different fantasies — sometimes it relates to their sexual orientation, and sometimes it doesn’t.
-
-
- utter_know_asexual:
- - text: The only way to know is by how you feel. Being asexual means not feeling sexually attracted to other people. If you’re not sure, that’s totally normal. Sometimes it takes a while to figure it out.
-
-
- utter_why_come_out:
- - text: It’s totally up to you to decide if you should come out, to whom, and when. If you have people in your life who you know will love and accept you for who you are, you might tell them first. If coming out doesn’t feel safe, you can always wait until it does.
-
-
- utter_friend_comes_out:
- - text: If your friend comes out to you, that means they trust you a lot. It can be difficult to come out. Thank them, believe them, and support them. Most importantly, don’t tell anyone else unless your friend says it’s OK.
-
-
- utter_preffered_pronouns:
- - text: You might not have to ask — the other person may tell you directly or mention it at some point in the conversation. But it’s fine to simply ask, “What are your pronouns?” in a polite and respectful way. And you can always share your own pronouns first to start the conversation.
-
-
- utter_know_transgender:
- - text: Transgender means identifying as a gender that isn’t the same as the sex you were assigned at birth. There are lots of ways transgender people identify their gender (gender identity) and present themselves on the outside (gender expression).
-
-
- utter_masturbate_too_much:
- - text: Masturbating a lot won’t hurt you or cause serious health problems. It’s only a problem if it gets in the way of your daily activities — like school or your social life. If you’re worried, you can talk with an adult you trust. But odds are you’re not masturbating too much. However, if you feel that you get compulsive urges to masturbate multiple times a day, it could be a sign of addiction and it's best to talk to a trusted adult and ask for help.
-
-
- utter_masturbation_problems:
- - text: Masturbating doesn’t have any negative effect on sex. It can actually make sex better because it helps you learn about what feels good and turns you on. (If you recently had an orgasm, it might be harder for you to have another one again right away — but that’s temporary).
-
-
- utter_normal_masturbate:
- - text: Here's the thing:- masturbation is really private, and people often don’t talk about it publicly, so it may seem like nobody does it. But the truth is almost everyone has masturbated at some point in their life, and lots of people do it regularly!
-
-
- utter_pregnant_masturbate:
- - text: No worries, masturbation doesn’t cause pregnancy (whew!). The only way pregnancy can happen is if semen (cum) from a penis gets on a vulva or into a vagina.
-
-
- utter_period_masturbate:
- - text: It’s totally safe and normal to masturbate while you’re having your period. In fact, some people find that masturbation can help relieve period cramps. Orgasms release feel-good chemicals in your brain called endorphins — they’re a natural pain killer and mood lifter.
-
-
- utter_side_effects_masturbation:
- - text: Masturbation is totally safe, healthy, and can actually be good for you. It’s pretty much the safest sex out there — there’s no risk of pregnancy or STDs. There are no bad side-effects of masturbation (unless you’re doing it so much it gets in the way of your everyday life).
-
-
- utter_masturbation_orgasm:
- - text: It’s totally normal to masturbate without having an orgasm. People often touch themselves simply because it feels good and gives them comfort, no orgasm required. If you’re trying to have an orgasm and can’t, that’s common too — it’s easier for some people than others.
-
-
- utter_masturbate_virgin:
- - text: Technocally, yes. “Virginity” means different things to different people, so only you can make that call. But many people who consider themselves virgins do masturbate. Masturbation is different than sex with a partner — for example, there’s no risk of pregnancy or STDs with masturbation.
-
-
- utter_often_masturbate:
- - text: Masturbation is super personal and different for everyone, and that goes for how often people masturbate, too. Many people masturbate regularly — a few times a week, every day, or more. Others masturbate every once in a while, and some don’t do it at all.
-
-
- utter_masturbate_std:
- - text: You can’t get an STD from masturbating alone. The only way you could possibly get an STD from masturbating is if you’re masturbating with another person who has an STD, and you share sex toys or touch your genitals after touching the other person’s.
-
-
- utter_best_method_birth_control:
- - text: There are many different types of birth control. The most effective types are ones you can’t mess up — like the implant or IUD (Intra Uterine Devices). You can get even more pregnancy protection by using condoms + birth control together. Bonus:- condoms help prevent STDs too!
-
-
- utter_birth_control_age:
- - text: In general there’s no age requirement to get birth control, and most teens can get birth control without any problems. Your nearest Planned Parenthood health center can get you hooked up.
-
-
- utter_miss_birth_control_pill:
- - text: What to do next depends on what kind of pill you use and where you are in your pack. I’ve got some handy resources — like a quiz to help you figure out what to do next, and a link to Spot On, a period and birth control tracker to help you stay on top of your birth control.
-
-
- utter_birth_control_cost:
- - text: The price for birth control varies depending on what kind you want, where you get it, and whether you have health insurance or qualify for government programs. It’s usually free if you have health insurance. Planned Parenthood can help you get free or low-cost birth control.
-
-
- utter_birth_control_secretly:
- - text: Most of the time you don’t need a parent’s permission to get birth control, but some states and some doctors have parent notification rules. Talk with a doctor or nurse, like the staff at your nearest Planned Parenthood, to find out how to get started on birth control.
-
-
- utter_std_test_noinsurance:
- - text: You don’t need insurance to get tested for STDs. There are some programs that can make testing free or cheap. And some clinics — including many Planned Parenthood health centers — give free or low-cost STD tests, depending on your income.
-
-
- utter_doctor_inform_std:
- - text: You don’t need permission to get tested for STDs, but some states allow your doctor or nurse to notify a parent (although that doesn’t mean they will!). You can always ask your nurse or doctor about their privacy policies if you’re worried.
-
-
- utter_IUD_removal_cost:
- - text: IUD removal can be free with health insurance. If you don’t have insurance, the price varies depending on where you go. You can call your doctor or local Planned Parenthood health center, to find out how much IUD removal costs.
-
-
- utter_morning_pill_cost:
- - text: The morning-after pill costs between $15-$70, depending on the brand. You can get most kinds at any drugstore or pharmacy without a prescription, except one brand - ella. It doesn’t matter what brand you buy — all over-the-counter morning-after pills work the same.
-
-
- utter_abortion_cost:
- - text: The cost of the abortion pill can be up to $1,000 but is often less depending on where you live, what your insurance covers, and funds that may be able to help in your area. Your local health center can talk you through your options.
-
-
- utter_birth_control_4_period:
- - text: Hormonal birth control can help with many period issues, like making your period lighter or more regular and help with cramps. To find out what method might help the most with your period, talk with a nurse or doctor, like the ones at your local Planned Parenthood.
+  utter_get_started:
+    - text: Hey, I am a Sex Education Chatbox. How may i help you?
+  utter_how_pregnancy:
+  - text: When sperm (the male reproductive cell) combines with an egg (female reproductive
+      cell), inside the uterus of a woman, it forms a zygote and this condition is
+      called pregnancy. This usually happens after sexual intercourse between a man
+      and a woman, when a penis ejaculates into a vagina.
+  utter_pregnancy_pullout:
+  - text: It’s rare, but it can happen. Sperm mostly lives in semen (what comes out
+      of the penis during ejaculation), but a little sperm can come out in pre-cum
+      (the clear fluid that comes out of the penis when it’s hard). If pre-cum gets
+      in the vagina, pregnancy is unlikely but possible.
+  utter_no_virgin:
+  - text: Normally, you lose you virginity after the first time you have sex. This
+      is an established fact. (However, sex means different things to different people,
+      so it's up to you to decide what virginity means to you.)
+  utter_std_what:
+  - text: Take a breath — STDs are super common, and many can be treated with medicine.
+      The only way to know you have an STD for sure is to get tested. You can get
+      tested at Planned Parenthood health centers and other doctors’ offices. It’s
+      usually easy, painless, and can even be free. (However, some diseases like AIDS
+      do have serious implecations so it's best to take proper precautions and consult
+      proper doctors if you feel something is wrong)
+  utter_how_know_STD:
+  - text: You can only get STDs from sexual contact with another person (like oral,
+      anal, or vaginal sex). Most of the time, STDs don’t show symptoms, so the only
+      way to know for sure if you have an STD is to get tested. STD testing is usually
+      easy, painless, and sometimes even free.
+  utter_how_know_yeast:
+  - text: Yeast infections are no fun. Symptoms can include:- thick, white, clumpy
+      discharge; creamy, white coating around your vagina; itching, burning, or redness
+      in or around your vagina. If you think you have a yeast infection, call your
+      doctor or a PP health center.
+  utter_hurts_sex:
+  - text: As a robot, I’m not great at diagnosing stuff, but I know that sex should
+      feel good for everyone involved. The best way to figure out why you’re having
+      pain is to talk with a human doctor or nurse. And remember:- if sex hurts (and
+      not in a good way), you must stop!
+  utter_pee_burn:
+  - text: Ouch! Pain when peeing can have different causes, like a UTI or STD. The
+      only way to know for sure what’s going on is to see a nurse or doctor.
+  utter_sex_age:
+  - text: It’s all about picking the right age for you, which might be totally different
+      than the right age for other people. It may seem like everybody you know is
+      having sex, but that’s definitely not true. The average age when people have
+      sex for the first time is around 17. However, there are laws regarding the right
+      age for sexual intercourse in every country so it is advisable to follow them.
+  utter_first_sex:
+  - text: The first time someone puts fingers or a penis in someone's vagina, it may
+      hurt (that’s the hymen stretching open). Also, if you’re not relaxed or using
+      enough proper lubrication, it can cause excessive friction and that ends up
+      hurting. Sex won’t usually hurt someone's penis.
+  utter_look_sex:
+  - text: Don't worry, your appearance will not change after you start having sex.
+      Nobody can tell whether you’ve had sex by looking at you.
+  utter_what_orgasm:
+  - text: An orgasm is a release of sexual tension. You have muscle spasms in your
+      genitals that feel really good, and your body releases hormones that make you
+      feel happy and relaxed afterwards. Orgasms are sometimes called “cumming.”
+  utter_late_period:
+  - text: Lots of things can make your period late:- stress, illness, what you eat,
+      weight gain or loss, and changes in your hormones. If your period doesn’t come
+      at all, it can be a sign of pregnancy. If you had sexual intercourse recently
+      and missed your period, take a pregnancy test.
+  utter_longer_period:
+  - text: The average period generally lasts 3-7 days, and can change from month to
+      month. It can be affected by things like birth control and stress. If your periods
+      last longer than 8 days, consult a doctor immediately as it could be a sign
+      of certain illnesses eg. PCOD.
+  utter_sex_ready:
+  - text: That’s a big decision to make, so it can help to talk it over with a non-robot
+      person you trust. If you feel ready, make sure you think about safer sex to
+      prevent STDs and birth control if you don’t want to get pregnant.
+  utter_often_sex:
+  - text: Sex is super personal and different for everyone. Some have sex regularly
+      — a few times a week, every day, or more. Others have sex every once in a while,
+      and some don’t do it at all. It’s up to you and your partner to decide what
+      works best for you.
+  utter_sex_pressure:
+  - text: Pressuring someone into sex is wrong. If it’s happening with someone you’re
+      dating or hooking up with, that can be a sign of an unhealthy relationship.
+      If someone you go to school with or work with is bugging you about sex (making
+      subtle sexual advances, dropping dirty jokes in normal conversation which makes
+      you uncomfortable, feel violated or harassed), talk with a (non-robot) adult
+      you trust about it as soon as possible.
+  utter_long_UTI:
+  - text: UTIs can be easily cured with antibiotics, and most people feel better within
+      a day or two of taking them. UTIs are generally easy to treat, but if left untreated,
+      they can spread and cause *bigger* problems like kidney damage
+  utter_sex_without_pregnant:
+  - text: If you want to avoid pregnancy during sex, you can use birth control — something
+      that stops sperm from meeting an egg. There are many types of birth control.
+      You can get the most pregnancy protection by using condoms + birth control together.
+      Bonus:- condoms help prevent STDs too!
+  utter_vaginal_discharge_color:
+  - text: Vaginal discharge is totally normal, and it’s usually clear, white, or slightly
+      yellow. If you notice discharge that is green, grey, foamy, or has a strong
+      fish-like smell, it may be a sign of infection. A nurse or doctor can help you
+      figure out what’s going on.
+  utter_what_sex:
+  - text: It is a question with a multitude of answers. “Sex” means different things
+      to different people, so it depends on what that means to you.
+  utter_sex_bleed:
+  - text: Bleeding can happen when the hymen — the thin tissue at the opening of the
+      vagina — gets stretched. There might be bleeding the first time a penis or fingers
+      go into someone’s vagina, but it doesn’t happen to everybody.
+  utter_Is_vagina_normal:
+  - text: There’s really no such thing as a “normal” vagina. Vaginas and vulvas are
+      as unique as faces — they all have the same parts, but nobody's looks the same.
+      There are many different colors, shapes, and sizes. And it’s normal to have
+      some discharge (fluid) come out of your vagina.
+  utter_shave_pubic_hair:
+  - text: Only some people shave, wax, trim, or remove their pubes some other way.
+      It's totally up to you to decide what to do with yours. Do not be influenced
+      by your friends or your partner. Do this only if you are comfortable with it.
+  utter_what_where_clitoris:
+  - text: The clitoris is part of the vulva and its only purpose is to feel awesome.
+      Seriously, that's all it's there for! The outside part of the clitoris is located
+      at the top of the vulva, right next to the urethra (the hole where pee comes
+      out), but the inner part is much bigger.
+  utter_normal_penis:
+  - text: Unless something hurts or feels off, your penis and testicles are probably
+      normal. Thick or thin, long or short, straight or with a curve, circumcised
+      or not — everyone is unique. Testicles come in all different sizes, too, and
+      many people have one that is bigger than the other. Embrace what you have.
+  utter_when_period:
+  - text: Most people get their period every 21-35 days, but it’s normal for it to
+      be unpredictable the first few years. Some people can guess it's on the way
+      from PMS symptoms (like cramps, pimples, sore breasts, etc), or you can use
+      a period tracking app (like Spot On!) to predict it. However, if your cycle
+      is extremely irregular (once every 2-3 months), it is best to get checked by
+      a doctor.
+  utter_period_age:
+  - text: Most people get their first period at some point between ages 12 and 15,
+      but it’s normal for it to come a couple years before or after that.
+  utter_circumcisted_uncircumcisted:
+  - text: An uncircumcised penis has a foreskin — a soft tube of skin that covers
+      the tip of the penis. A circumcised penis has had the foreskin removed.
+  utter_bad_cramps:
+  - text: Cramps are a bummer. You can calm them by taking pain medicine (like ibuprofen).
+      Putting a heating pad where it hurts, taking a hot bath, exercising, or stretching
+      can also help. Some birth control methods (like the pill) can make cramps less
+      of a thing, too.
+  utter_use_tampon:
+  - text: Tampons are like little cotton plugs that go in your vagina. Most tampons
+      come with an applicator to help you put them in. You need to change tampons
+      every 3 or 4 hours (or earlier if you think it’s leaking).
+  utter_normal_period:
+  - text: You're a woman now! A period is a natural process in adolescent girls in
+      which blood comes out of their vagina once a month.A typical period lasts from
+      2-7 days, and happens once a month-ish (about every 21-35 days). Bleeding can
+      range from light to heavy, and the color can look bright red to dark brown.
+      It's also totally normal for periods to be irregular for the first couple years
+      (or even longer).
+  utter_where_pill:
+  - text: You can get Plan B over-the-counter at most drug stores. You need a prescription
+      for certail emergency contraception. You can always talk to a nurse or doctor,
+      like the ones at your local Planned Parenthood, to find out what is right for
+      you.
+  utter_pregnant_without_sex:
+  - text: It is possible for pregnancy to happen if semen (cum) gets in the vagina,
+      even without having penis-in-vagina sex. The chances of getting pregnant from
+      this are *much* lower than the chances of getting pregnant from penis-in-vagina
+      sex.
+  utter_itching_genitals:
+  - text: There can be many causes of itching or bumps around your genitals, like
+      ingrown hairs or an STD. A nurse or doctor can help you figure out what’s going
+      on.
+  utter_dry_humpting_pregnant:
+  - text: You definitely can't get pregnant from dry humping. In order for pregnancy
+      to happen, sperm needs to get into your vagina. If clothes or other barriers
+      keep that from happening, pregnancy isn’t possible.
+  utter_condom_pregnant:
+  - text: Not if you use the condom correctly and it doesn’t break or fall off. Condoms
+      are great at preventing pregnancy (and STDs).
+  utter_first_sex_pregnant:
+  - text: If you don’t use a condom or another birth control method, it’s totally
+      possible to get pregnant the first time you have sex.
+  utter_period_pregnant:
+  - text: It's possible to get pregnant during your period, just less common. You’re
+      most likely to get pregnant just before or during ovulation (when an egg is
+      released), which is *usually* about 2 weeks before your period. But unprotected
+      vaginal sex at *any time* can cause pregnancy.
+  utter_pressure_sex:
+  - text: Pressuring someone into sex is wrong. If it’s happening with someone you’re
+      dating or hooking up with, that can be a sign of an unhealthy relationship.
+      If someone you go to school with or work with is bugging you about sex, talk
+      with a (non-robot) adult you trust about it.
+  utter_how_breakup:
+  - text: A broken heart can really hurt, but it will feel better with time (promise).
+      It can help to lean on friends for support, and use outlets like exercise, music,
+      writing, or art to help you work through your feelings. And try to remember
+      that you’re amazing, no matter what.
+  utter_what_to_do_crush:
+  - text: Having a crush can be fun and frustrating. Talking to them is the only way
+      to know for sure if they like you back. If it feels like you’re vibing, you
+      could ask if they want to hang out or tell them how you feel. But if they’re
+      not into it, it’s important to respect their answer.
+  utter_get_over_crush:
+  - text: A broken heart can really hurt, but it will feel better with time (promise).
+      It can help to lean on friends for support, and use outlets like exercise, music,
+      writing, or art to help you work through your feelings. And try to remember
+      that you’re amazing, no matter what.
+  utter_healthy_relationship:
+  - text: When a relationship is healthy, you feel good about yourselves and each
+      other most of the time. You both feel like you have respect, kindness, trust,
+      honesty, equality, and good communication. And you also give each other space
+      to have your own lives outside the relationship.
+  utter_masturbate_relationship_cheating:
+  - text: Cheating = different things to everyone. But it’s normal and common to masturbate
+      when you’re in a relationship. It DOESN’T mean you’re not into your partner,
+      or that they’re not good enough. (Plus, it’s kinda hard to cheat on someone
+      with...yourself.)
+  utter_relationship_problem:
+  - text: Relationship problems can be really tough to navigate, especially for a
+      bot. But there's lots of resources out there that can help. The best suggestion
+      is to talk to your partner and actually listen to what is bothering them. It
+      will definitelt work if it is meant to be
+  utter_abusive_relationship:
+  - text: If you feel like you’re being treated badly, you probably are. Abuse often
+      starts slowly and gets worse over time. If your partner is disrespectful, controlling,
+      threatening, violent, or makes you feel bad about yourself, get help. Standing
+      up for yourself is not weakness and it does not mean that you do not love your
+      partner. It means that you respect yourself.
+  utter_what_bullied:
+  - text: Being bullied sucks. It can make you feel powerless, but there are things
+      you can do. Telling an adult you trust is the best place to start. You might
+      be afraid that it could make things worse, but they can only help if they know
+      what’s happening.
+  utter_what_consent:
+  - text: Consent means that whether you’re kissing, holding hands, or having sex,
+      both people are really, truly into what’s going on, and no one is being guilted
+      or pressured into anything. Talking about consent is important every time —
+      no matter the person or situation (Even if it is your partner).
+  utter_how_come_out:
+  - text: There’s no “right” way to come out — it should just feel right to you. You
+      can talk in-person, or write a letter or text if it feels more comfortable.
+      If you think they’ll react negatively, plan to get some support after. And if
+      it doesn’t feel safe, you might want to wait.
+  utter_know_bisexual:
+  - text: The only way to know is by how you feel. Being bisexual means feeling attracted
+      to people of all genders or more than one gender. If you’re not sure what your
+      sexual orientation is, that’s totally normal. Sometimes it takes a while to
+      figure it out.
+  utter_know_gay:
+  - text: The only way to know is by how you feel. Being gay means feeling mostly
+      attracted to people who are the same gender as you. If you’re not sure what
+      your sexual orientation is, that’s totally normal. Sometimes it takes a while
+      to figure it out.
+  utter_same_sex_thought_masturbation:
+  - text: What you think or fantasize about when you masturbate doesn’t necessarily
+      have anything to do with whether you identify as gay, straight, or bisexual.
+      People enjoy all kinds of different fantasies — sometimes it relates to their
+      sexual orientation, and sometimes it doesn’t.
+  utter_know_asexual:
+  - text: The only way to know is by how you feel. Being asexual means not feeling
+      sexually attracted to other people. If you’re not sure, that’s totally normal.
+      Sometimes it takes a while to figure it out.
+  utter_why_come_out:
+  - text: It’s totally up to you to decide if you should come out, to whom, and when.
+      If you have people in your life who you know will love and accept you for who
+      you are, you might tell them first. If coming out doesn’t feel safe, you can
+      always wait until it does.
+  utter_friend_comes_out:
+  - text: If your friend comes out to you, that means they trust you a lot. It can
+      be difficult to come out. Thank them, believe them, and support them. Most importantly,
+      don’t tell anyone else unless your friend says it’s OK.
+  utter_preffered_pronouns:
+  - text: You might not have to ask — the other person may tell you directly or mention
+      it at some point in the conversation. But it’s fine to simply ask, “What are
+      your pronouns?” in a polite and respectful way. And you can always share your
+      own pronouns first to start the conversation.
+  utter_know_transgender:
+  - text: Transgender means identifying as a gender that isn’t the same as the sex
+      you were assigned at birth. There are lots of ways transgender people identify
+      their gender (gender identity) and present themselves on the outside (gender
+      expression).
+  utter_masturbate_too_much:
+  - text: Masturbating a lot won’t hurt you or cause serious health problems. It’s
+      only a problem if it gets in the way of your daily activities — like school
+      or your social life. If you’re worried, you can talk with an adult you trust.
+      But odds are you’re not masturbating too much. However, if you feel that you
+      get compulsive urges to masturbate multiple times a day, it could be a sign
+      of addiction and it's best to talk to a trusted adult and ask for help.
+  utter_masturbation_problems:
+  - text: Masturbating doesn’t have any negative effect on sex. It can actually make
+      sex better because it helps you learn about what feels good and turns you on.
+      (If you recently had an orgasm, it might be harder for you to have another one
+      again right away — but that’s temporary).
+  utter_normal_masturbate:
+  - text: Here's the thing:- masturbation is really private, and people often don’t
+      talk about it publicly, so it may seem like nobody does it. But the truth is
+      almost everyone has masturbated at some point in their life, and lots of people
+      do it regularly!
+  utter_pregnant_masturbate:
+  - text: No worries, masturbation doesn’t cause pregnancy (whew!). The only way pregnancy
+      can happen is if semen (cum) from a penis gets on a vulva or into a vagina.
+  utter_period_masturbate:
+  - text: It’s totally safe and normal to masturbate while you’re having your period.
+      In fact, some people find that masturbation can help relieve period cramps.
+      Orgasms release feel-good chemicals in your brain called endorphins — they’re
+      a natural pain killer and mood lifter.
+  utter_side_effects_masturbation:
+  - text: Masturbation is totally safe, healthy, and can actually be good for you.
+      It’s pretty much the safest sex out there — there’s no risk of pregnancy or
+      STDs. There are no bad side-effects of masturbation (unless you’re doing it
+      so much it gets in the way of your everyday life).
+  utter_masturbation_orgasm:
+  - text: It’s totally normal to masturbate without having an orgasm. People often
+      touch themselves simply because it feels good and gives them comfort, no orgasm
+      required. If you’re trying to have an orgasm and can’t, that’s common too —
+      it’s easier for some people than others.
+  utter_masturbate_virgin:
+  - text: Technocally, yes. “Virginity” means different things to different people,
+      so only you can make that call. But many people who consider themselves virgins
+      do masturbate. Masturbation is different than sex with a partner — for example,
+      there’s no risk of pregnancy or STDs with masturbation.
+  utter_often_masturbate:
+  - text: Masturbation is super personal and different for everyone, and that goes
+      for how often people masturbate, too. Many people masturbate regularly — a few
+      times a week, every day, or more. Others masturbate every once in a while, and
+      some don’t do it at all.
+  utter_masturbate_std:
+  - text: You can’t get an STD from masturbating alone. The only way you could possibly
+      get an STD from masturbating is if you’re masturbating with another person who
+      has an STD, and you share sex toys or touch your genitals after touching the
+      other person’s.
+  utter_best_method_birth_control:
+  - text: There are many different types of birth control. The most effective types
+      are ones you can’t mess up — like the implant or IUD (Intra Uterine Devices).
+      You can get even more pregnancy protection by using condoms + birth control
+      together. Bonus:- condoms help prevent STDs too!
+  utter_birth_control_age:
+  - text: In general there’s no age requirement to get birth control, and most teens
+      can get birth control without any problems. Your nearest Planned Parenthood
+      health center can get you hooked up.
+  utter_miss_birth_control_pill:
+  - text: What to do next depends on what kind of pill you use and where you are in
+      your pack. I’ve got some handy resources — like a quiz to help you figure out
+      what to do next, and a link to Spot On, a period and birth control tracker to
+      help you stay on top of your birth control.
+  utter_birth_control_cost:
+  - text: The price for birth control varies depending on what kind you want, where
+      you get it, and whether you have health insurance or qualify for government
+      programs. It’s usually free if you have health insurance. Planned Parenthood
+      can help you get free or low-cost birth control.
+  utter_birth_control_secretly:
+  - text: Most of the time you don’t need a parent’s permission to get birth control,
+      but some states and some doctors have parent notification rules. Talk with a
+      doctor or nurse, like the staff at your nearest Planned Parenthood, to find
+      out how to get started on birth control.
+  utter_std_test_noinsurance:
+  - text: You don’t need insurance to get tested for STDs. There are some programs
+      that can make testing free or cheap. And some clinics — including many Planned
+      Parenthood health centers — give free or low-cost STD tests, depending on your
+      income.
+  utter_doctor_inform_std:
+  - text: You don’t need permission to get tested for STDs, but some states allow
+      your doctor or nurse to notify a parent (although that doesn’t mean they will!).
+      You can always ask your nurse or doctor about their privacy policies if you’re
+      worried.
+  utter_IUD_removal_cost:
+  - text: IUD removal can be free with health insurance. If you don’t have insurance,
+      the price varies depending on where you go. You can call your doctor or local
+      Planned Parenthood health center, to find out how much IUD removal costs.
+  utter_morning_pill_cost:
+  - text: The morning-after pill costs between $15-$70, depending on the brand. You
+      can get most kinds at any drugstore or pharmacy without a prescription, except
+      one brand - ella. It doesn’t matter what brand you buy — all over-the-counter
+      morning-after pills work the same.
+  utter_abortion_cost:
+  - text: The cost of the abortion pill can be up to $1,000 but is often less depending
+      on where you live, what your insurance covers, and funds that may be able to
+      help in your area. Your local health center can talk you through your options.
+  utter_birth_control_4_period:
+  - text: Hormonal birth control can help with many period issues, like making your
+      period lighter or more regular and help with cramps. To find out what method
+      might help the most with your period, talk with a nurse or doctor, like the
+      ones at your local Planned Parenthood.

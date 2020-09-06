@@ -1,3 +1,7 @@
+## get_started
+* get_started
+    -utter_get_started
+
 ## how_pregnancy
 * how_pregnancy
  - utter_how_pregnancy
